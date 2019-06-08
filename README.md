@@ -5,4 +5,4 @@ We propose a new exercise-level deep knowledge tracing model whose structure is 
 ## Exercises Recommendation
 We propose an exercises recommendation algorithm which uses model-free reinforcement learning with neural network function approximation to learn an exercise recommendation policy. The policy directly operates on raw observations of a student's exercise history. Experimental results show that our policy achieves better performance than existing heuristic policy in terms of maximizing students' knowledge level.
 ## text
-
+fdgdfg
