@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+
+\bibitem{zpd}
+I.-A. Chounta, B.~M. McLaren, P.~L. Albacete, P.~W. Jordan, and S.~Katz.
+\newblock Modeling the zone of proximal development with a computational
+  approach.
+\newblock {\em EDM}, 2017:56--57, 2017.
+
+\bibitem{mab}
+B.~Clement, D.~Roy, P.-Y. Oudeyer, and M.~Lopes.
+\newblock Multi-armed bandits for intelligent tutoring systems.
+\newblock {\em arXiv preprint arXiv:1310.3174}, 2013.
+
+\bibitem{bkt}
+A.~T. Corbett and J.~R. Anderson.
+\newblock Knowledge tracing: Modeling the acquisition of procedural knowledge.
+\newblock {\em User modeling and user-adapted interaction}, 4(4):253--278,
+  1994.
+
+\bibitem{rllab}
+Y.~Duan, X.~Chen, R.~Houthooft, J.~Schulman, and P.~Abbeel.
+\newblock Benchmarking deep reinforcement learning for continuous control.
+\newblock In {\em International Conference on Machine Learning}, pages
+  1329--1338, 2016.
+
+\bibitem{goal}
+W.~Jiang, Z.~A. Pardos, and Q.~Wei.
+\newblock Goal-based course recommendation.
+\newblock pages 36--45, 2018.
+
+\bibitem{hdd}
+M.~Khajah, R.~V. Lindsey, and M.~C. Mozer.
+\newblock How deep is knowledge tracing?
+\newblock {\em arXiv preprint arXiv:1604.02416}, 2016.
+
+\bibitem{ucb}
+A.~S. Lan and R.~G. Baraniuk.
+\newblock A contextual bandits framework for personalized learning action
+  selection.
+\newblock In {\em EDM}, pages 424--429, 2016.
+
+\bibitem{time}
+R.~Pel{\'a}nek and P.~Jaru{\v{s}}ek.
+\newblock Student modeling based on problem solving times.
+\newblock {\em International Journal of Artificial Intelligence in Education},
+  25(4):493--519, 2015.
+
+\bibitem{dkt}
+C.~Piech, J.~Spencer, J.~Huang, S.~Ganguli, M.~Sahami, L.~Guibas, and
+  J.~Sohl-Dickstein.
+\newblock Deep knowledge tracing.
+\newblock volume~3, pages págs. 19--23, 2015.
+
+\bibitem{acc}
+S.~Reddy, S.~Levine, and A.~D. Dragan.
+\newblock Accelerating human learning with deep reinforcement learning.
+\newblock 2017.
+
+\bibitem{trpo}
+J.~Schulman, S.~Levine, P.~Abbeel, M.~Jordan, and P.~Moritz.
+\newblock Trust region policy optimization.
+\newblock In {\em International Conference on Machine Learning}, pages
+  1889--1897, 2015.
+
+\bibitem{ees}
+Y.~Su, Q.~Liu, Q.~Liu, Z.~Huang, Y.~Yin, E.~Chen, C.~Ding, S.~Wei, and G.~Hu.
+\newblock Exercise-enhanced sequential modeling for student performance
+  prediction.
+\newblock In {\em Thirty-Second AAAI Conference on Artificial Intelligence},
+  2018.
+
+\bibitem{dkvmn}
+J.~Zhang, X.~Shi, I.~King, and D.-Y. Yeung.
+\newblock Dynamic key-value memory networks for knowledge tracing.
+\newblock In {\em Proceedings of the 26th international conference on World
+  Wide Web}, pages 765--774. International World Wide Web Conferences Steering
+  Committee, 2017.
+
+\end{thebibliography}
